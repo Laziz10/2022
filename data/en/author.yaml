@@ -1,0 +1,14 @@
+# some information about you
+name: "Laziz Yuldoshev"
+nickname: "Laziz"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/ays.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ayuldosh@uncc.edu"
+  # phone: ""
+
+# some summary about what you do
+summary:
+  - Welcome to My Website!
